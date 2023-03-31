@@ -1,0 +1,15 @@
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\bin\Debug\net6.0\Week4WhileLoops.exe
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\bin\Debug\net6.0\Week4WhileLoops.deps.json
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\bin\Debug\net6.0\Week4WhileLoops.runtimeconfig.json
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\bin\Debug\net6.0\Week4WhileLoops.dll
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\bin\Debug\net6.0\ref\Week4WhileLoops.dll
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\bin\Debug\net6.0\Week4WhileLoops.pdb
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.csproj.AssemblyReference.cache
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.AssemblyInfoInputs.cache
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.AssemblyInfo.cs
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.dll
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\ref\Week4WhileLoops.dll
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.pdb
+C:\Users\BENAHMAD\source\repos\Week4Loops\Week4WhileLoops\obj\Debug\net6.0\Week4WhileLoops.genruntimeconfig.cache
